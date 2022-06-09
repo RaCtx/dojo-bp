@@ -19,3 +19,6 @@
 [submodule "src/xstyle"]
 	path = src/xstyle
 	url = https://github.com/kriszyp/xstyle.git
+[submodule "src/typings"]
+	path = src/typings
+	url = https://github.com/dojo/typings.git
